@@ -1,0 +1,20 @@
+
+
+Unique words: [pharmacy, mountain, freedom, visibility, fish, tbilisi, pants, accounting, religion, thread, runway, bark, laws, deep, intelligence, thermodynamics, elasticity, theater, number, pasta, pencil, webcam, cleaner, couture, wealth, air, hospital, computer, dynamic, microprocessor, truck, ocean, net, commerce, execution, training, honesty, screwdriver, programming, vibrations, entanglement, map, backpack, skirt, keyboard, linear, lizard, racket, debt, jazz, chemicalop, electronic, history, bird, beak, notes, breed, physical, architecture, tunneling, surgery, doctor, hat, balance, software, motion, wrench, sakartvelo, hook, monitor, watch, wagon, insulation, canvas, country, coaxial, canine, leash, classical, connector, therapy, caucasus, justice, measure, horse, promotion, statistics, brightness, organization, style, flute, quantum, sushi, thermochemistry, hatchback, pad, sketch, conductor, uniform, orthodox, audit, accessories, inorganic, sandpaper, sandwich, passport, growth, cuisine, collar, neural, rock, social, mechanics, exceptioan, knife, fetch, dimmer, cryptography, board, health, geometry, rod, router, scissors, bat, binder, fashion, binary, hardware, merge, savings, fairness, fiber, hammer, algorithm, hashing, fluorescent, saxophone, chopin, probability, democracy, blues, jacket, diversity, speakers, pen, pierogi, flight, violin, finance, method, guitar, efficiency, decoherence, equity, integrity, hip, palette, pliers, computing, helmet, hdmi, sky, level, train, calculator, credit, dijkstra, scooter, team, machine, console, corporate, sedan, coupe, dress, pizza, superposition, virtue, rabbit, reggae, fixture, gaming, quick, writing, trigonometry, disease, network, investment, microscope, ethernet, duty, motorcycle, banking, kinetics, innovation, avian, patriotism, interface, apparel, opportunity, football, meow, highlighter, dumplings, treatment, pop, lure, temperature, fluid, differential, depreciation, responsibility, content, tatra, system, london, shade, hop, statics, trends, sort, data, advertising, usb, collection, desk, digital, warsaw, dynamics, uv, angler, textiles, fur, topology, tabby, scratch, solidarity, species, royalty, khachapuri, designer, plumage, reel, headphones, spiral, learning, drums, telescope, printer, field, kinematics, expense, bulb, tv, puppy, dog, respect, salad, burger, cow, toaster, ambient, chic, veterinarian, dots, morality, control, fruit, coffee, economy, forest, lake, minivan, kennel, cast, branding, scarf, vistula, car, song, mouse, cat, catch, socks, acoustics, journal, liberty, performance, suv, drill, feline, illumination, batumi, rain, globe, chip, eraser, camera, nest, principles, entrepreneur, catholic, notebook, organic, tablet, calculus, lamp, circuit, ledger, countryside, diagnosis, polyphony, feather, glamour, cover, tree, income, sales, laptop, industry, flower, wine, wind, wing, piano, airplane, biochemistry, greedy, easel, electrochemistry, bubble, bait, humidity, tax, planning, glove, saw, language, dance, culture, budget, diary, dew, ship, hospitality, monarchy, line, convertible, bike, money, litter, campaign, hamster, algebra, migration, kitten, ball, speaker, automation, tackle, framework, snake, led, precipitation, cloud, robotics, whisker, phone, bus, trumpet, beach, tea, amplifier, supra, nurse, power, shirt, shoes, cake, charcoal, wire, literature, class, enterprise, paint, market, marker, brush, management, administration, clay, bookkeeping, stapler, paper, object, analytical, purr, graph, equality, tradition, profit, pressure, teleportation, folk, leadership, suitcase, jeans, strategy, traditions, inheritance, ruler, cinema, book, claw, river]
+Word length count:
+Length: 16, Count: 1
+Length: 2, Count: 2
+Length: 3, Count: 25
+Length: 4, Count: 45
+Length: 5, Count: 69
+Length: 6, Count: 69
+Length: 7, Count: 63
+Length: 8, Count: 47
+Length: 9, Count: 28
+Length: 10, Count: 31
+Length: 11, Count: 16
+Length: 12, Count: 12
+Length: 13, Count: 3
+Length: 14, Count: 4
+Length: 15, Count: 1
+
